@@ -6,3 +6,4 @@
 ["loadTasks"]
 ["localStorage.getItem", "tasks"]
 ["JSON.parse", "JSON.stringify"]
+["localStorage.setItem"]
